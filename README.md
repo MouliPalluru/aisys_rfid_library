@@ -43,6 +43,6 @@ The project follows a **Modular 7-Layer Architecture**:
 ### 1. Installation
 Clone the repository and install required dependencies:
 ```bash
-git clone [https://github.com/MouliPalluru/aisys_rfid_library.git](https://github.com/MouliPalluru/aisys_rfid_library.git)
+git clone https://github.com/MouliPalluru/aisys_rfid_library.git
 cd aisys_rfid_library
 pip install -r requirements.txt
