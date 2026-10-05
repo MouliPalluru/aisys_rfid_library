@@ -1,0 +1,7 @@
+member_code,full_name,email,phone,member_type
+M001,Asha Rao,asha@example.com,9876543210,STUDENT
+M002,Ravi Kumar,ravi@example.com,9876543211,FACULTY
+M003,Meena Iyer,meena-at-example,,STAFF
+M004,,x@example.com,,GUEST
+M001,Asha Rao (dup),asha2@example.com,,STUDENT
+M006,Kiran�P,kiran@example.com,,STUDENT

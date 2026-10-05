@@ -1,0 +1,5 @@
+batch_id,row_number,entity,natural_key,category,reason,raw_row
+dfccfbbb3298,4,members,M003,INVALID,INVALID_EMAIL,"{""member_code"": ""M003"", ""full_name"": ""Meena Iyer"", ""email"": ""meena-at-example"", ""phone"": """", ""member_type"": ""STAFF""}"
+dfccfbbb3298,5,members,M004,INVALID,MISSING_FULL_NAME,"{""member_code"": ""M004"", ""full_name"": """", ""email"": ""x@example.com"", ""phone"": """", ""member_type"": ""GUEST""}"
+dfccfbbb3298,6,members,M001,DUPLICATE,DUPLICATE_IN_FILE,"{""member_code"": ""M001"", ""full_name"": ""Asha Rao (dup)"", ""email"": ""asha2@example.com"", ""phone"": """", ""member_type"": ""STUDENT""}"
+dfccfbbb3298,7,members,M006,INVALID,CORRUPTED_VALUE:full_name,"{""member_code"": ""M006"", ""full_name"": ""Kiran�P"", ""email"": ""kiran@example.com"", ""phone"": """", ""member_type"": ""STUDENT""}"

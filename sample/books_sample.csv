@@ -1,0 +1,7 @@
+isbn,title,author,publisher,pub_year,category,accession_no,tag_uid,shelf_location
+978-0-262-03384-8,Introduction to Algorithms,Cormen,MIT Press,2009,CS,ACC-1001,E2000001,A-01
+9780262033848,Introduction to Algorithms,Cormen,MIT Press,2009,CS,ACC-1002,E2000002,A-01
+9780132126953,Computer Networks,Tanenbaum,Pearson,2010,CS,ACC-2001,E2000003,A-02
+9780132126953,Computer Networks,Tanenbaum,Pearson,2010,CS,ACC-2002,ZZZ,A-02
+123,Bad ISBN Book,,,2020,,ACC-3001,E2000005,B-01
+9780132126953,Computer Networks,Tanenbaum,Pearson,2010,CS,ACC-2001,E2000009,A-02

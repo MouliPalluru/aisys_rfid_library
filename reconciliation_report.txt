@@ -1,0 +1,16 @@
+======================================================
+ RECONCILIATION SUMMARY REPORT
+======================================================
+ Batch ID     : dfccfbbb3298
+ Entity       : members
+ Status       : COMMITTED
+------------------------------------------------------
+ Total Read   : 6
+ Valid        : 2
+ Rejected     : 4  (invalid 3, duplicate 1)
+ Inserted     : 2
+   - members_created: 2
+------------------------------------------------------
+ Reconciled   : YES
+ Error log    : error_log.csv
+======================================================
