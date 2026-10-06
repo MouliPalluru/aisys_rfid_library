@@ -95,7 +95,7 @@ Business rules sit in the services, never in the protocol adapters, so REST, NCI
 
 | Measure | Result |
 |---|---|
-| Automated tests | **53 passed, 0 failed** |
+| Automated tests | **49 passed, 0 failed** |
 | Test host | Python 3.12.3, Linux, SQLite 3.45.1 |
 | Suite run time | about 5 seconds |
 | 20,000-row import | about 3 seconds |
