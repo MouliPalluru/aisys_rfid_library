@@ -30,7 +30,7 @@ The project follows a **Modular 7-Layer Architecture**:
 | **D5** | `migrate.py` | Production Excel/CSV spreadsheet data migration and reconciliation tool with transaction rollback support. |
 | **D6** | `test_acceptance.py` | Automated Pytest acceptance test suite with 49 passing tests (100% pass rate). |
 | **D7 / D8** | `OPERATIONS_AND_RUNBOOK.md` | Administrator Guide, User Guide, Air-Gapped/Offline Installation Guide, and Incident Troubleshooting Runbook. |
-| **D9** | `PRESENTATION.md` | 12-slide technical deck formatted for Gamma import and PDF export summarizing design, compliance, and backlog. |
+| **D9** | `PRESENTATION.md` | 10-slide technical deck formatted for Gamma import and PDF export summarizing design, compliance, and backlog. |
 
 ---
 
